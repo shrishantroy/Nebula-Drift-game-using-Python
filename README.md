@@ -10,3 +10,5 @@ and south-west(-135 degrees to positive X-axis). The player dies once health poi
   <img src="images/ss3.png" width="30%">
   <img src="images/ss2.png" width="30%">
 </p>
+
+[Gameplay video](https://www.youtube.com/watch?v=TCx1gFa2yt4)
